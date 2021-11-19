@@ -1,0 +1,32 @@
+*{
+    padding:0;
+    margin:0;
+}
+header{
+    background-color: rgb(24, 30, 37);
+    width: 100%;
+    height: 90px;
+}
+header img{
+    width: 90px;
+    height: 100%;
+    float: left;
+}
+header p{
+    color: white;
+    font-size: 28px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 27px;
+}
+header li{
+    color: white;
+    display: table-column;
+    float: left;
+    padding-right: 30px;
+    margin-top: 33px;
+}
+header ul{
+    float: left;
+    margin-left: 50px;
+}
