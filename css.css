@@ -66,14 +66,15 @@ header ul{
     padding-bottom: 200px;
 }
 footer{
-    padding:40px 40px;
     font-family: 'Shippori Antique';
     height: 300px;
     width: 100%;
     background-color: rgb(36, 36, 51);
     color:white;
 }
-
+.footer-isi{
+    padding: 40px 40px;
+}
 .dev{
-    margin-top: 230px;
+    margin-top: 150px;
 }
