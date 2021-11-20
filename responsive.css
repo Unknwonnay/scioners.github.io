@@ -1,0 +1,8 @@
+@media all and (max-width: 670px) {
+    .backgroundkelas h1{
+        font-size: 50px;
+    }
+    .backgroundkelas h3{
+        font-size: 25px;
+    }
+}
