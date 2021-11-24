@@ -46,8 +46,7 @@ header p{
     padding-bottom: 100px;
 }
 .maincontent{
-    margin-left: 80px;
-    margin-right: 80px;
+    padding:0px 35px;
 }
 .maincontent img{
     margin-top: 100px;
